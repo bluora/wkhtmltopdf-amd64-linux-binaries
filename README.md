@@ -9,15 +9,3 @@ This package has been developed by H&H|Digital, an Australian botique developer.
 Via composer:
 
 `$ composer require-dev bluora/wkhtmltopdf-amd64-linux-binaries ~0.12.4`
-
-
-
-
-```
-vendor/bin/wkhtmltoimage-linux-amd64
-
-vendor/bin/wkhtmltopdf-linux-amd64
-
-```
-
-Enjoy the bin files!
