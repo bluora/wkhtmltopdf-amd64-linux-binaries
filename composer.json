@@ -1,0 +1,11 @@
+{
+    "name": "bluora/wkhtmltopdf-amd64-linux-binaries",
+    "description": "wkhtmltopdf for Linux 64-bit",
+    "keywords": ["wkhtmltopdf", "amd64", "linux", "64-bit"],
+    "authors": [
+        {
+            "name": "Rocco Howard",
+            "email": "rocco@bluora.com.au"
+        }
+    ]
+}
