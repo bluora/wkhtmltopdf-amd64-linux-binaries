@@ -1,26 +1,17 @@
 # wkhtmltopdf for Linux 64-bit (0.12.4 wkhtmltox)
 
+This package has been developed by H&H|Digital, an Australian botique developer. Visit us at [hnh.digital](http://hnh.digital).
+
 [Binaries sourced from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
 ## Install
 
-1. Install Composer:
+Via composer:
 
-    ```    
-    curl -s https://getcomposer.org/installer | php
-    ```
-    
-2. Add to your `composer.json` file:
+`$ composer require-dev bluora/wkhtmltopdf-amd64-linux-binaries ~0.12.4`
 
-    ```js
-    {
-        "require": {
-            "bluora/wkhtmltopdf-amd64-linux-binaries": "0.12.4"
-        }
-    }
-    ```
 
-3. All the binaries are symlinked to the following paths:
+
 
 ```
 vendor/bin/wkhtmltoimage-linux-amd64
