@@ -8,4 +8,4 @@ This package has been developed by H&H|Digital, an Australian botique developer.
 
 Via composer:
 
-`$ composer require-dev bluora/wkhtmltopdf-amd64-linux-binaries ~0.12.4`
+`$ composer require-dev hnhdigital-os/wkhtmltopdf-amd64-linux-binaries ~0.12.4`
