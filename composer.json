@@ -1,11 +1,11 @@
 {
-    "name": "bluora/wkhtmltopdf-amd64-linux-binaries",
+    "name": "hnhdigital-os/wkhtmltopdf-amd64-linux-binaries",
     "description": "wkhtmltopdf for Linux 64-bit",
     "keywords": ["wkhtmltopdf", "amd64", "linux", "64-bit"],
     "authors": [
         {
             "name": "Rocco Howard",
-            "email": "rocco@bluora.com.au"
+            "email": "rocco@hnh.digital"
         }
     ],
     "minimum-stability": "stable",
