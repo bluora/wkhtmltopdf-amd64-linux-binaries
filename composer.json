@@ -11,6 +11,6 @@
     "minimum-stability": "stable",
     "bin": [
         "bin/wkhtmltopdf-linux-amd64",
-        "bin/wkhtmltoimage-linux-amd64",
+        "bin/wkhtmltoimage-linux-amd64"
     ]
 }
