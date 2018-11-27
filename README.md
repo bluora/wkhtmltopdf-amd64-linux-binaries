@@ -11,5 +11,5 @@ Binaries are sorted into branches and tagged.
 Via composer:
 
 xenial amd64:
-`$ sudo apt-get install libfontenc1 libxfont1 xfonts-75dpi xfonts-base xfonts-encodings xfonts-utils`
-`$ composer require-dev hnhdigital-os/wkhtmltopdf-amd64-linux-binaries xenial_amd64-0.12.5`
+* `$ sudo apt-get install libfontenc1 libxfont1 xfonts-75dpi xfonts-base xfonts-encodings xfonts-utils`
+* `$ composer require-dev hnhdigital-os/wkhtmltopdf-amd64-linux-binaries xenial_amd64-0.12.5`
